@@ -7,7 +7,7 @@ Seja bem-vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sis
 
 - 💻 Estou focado em aprender mais sobre **Desenvolvimento Web** e **Desenvolvimento de Software**.
 - 📚 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na FIAP.
-- 💬 Adoro conversar eaprender mais sobre **tecnologia**, **programação** e **inovação**.
+- 💬 Adoro conversar e aprender mais sobre **tecnologia**, **programação** e **inovação**.
 - 🌱 Buscando oportunidades para colocar meus conhecimentos em prática.
 
 ## 🛠️ Tecnologias e Ferramentas

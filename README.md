@@ -12,7 +12,7 @@ Seja bem-vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sis
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-3CB371?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3CB371?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/HTML-3CB371?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3CB371?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 ## 📫 Como Me Encontrar

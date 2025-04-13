@@ -1,22 +1,22 @@
-# Olá, Eu sou Lucas Rossoni Dieder 👋
-Sou um jovem, de 19 anos, brasileiro.
+## Bem-vindo(a) ao perfil do PxS00 
 
-Seja bem-vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira experiência profissional. Adoro aprender novas tecnologias e estou sempre em busca de desafios.
-
-##  Sobre mim
-
-- 💻 Estou focado em aprender mais sobre **Desenvolvimento Web** e **Desenvolvimento de Software**.
-- 📚 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na FIAP.
-- 💬 Adoro conversar e aprender mais sobre **tecnologia**, **programação** e **inovação**.
-- 🌱 Buscando oportunidades para colocar meus conhecimentos em prática.
-
-## 🛠️ Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div>
+   <a href="https://github.com/KelsonZh0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelsonZh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelsonZh0&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
-
-
-## 📫 Como Me Encontrar
-
-- LinkedIn: [Lucas Rossoni Dieder](https://www.linkedin.com/in/lucas-rossoni-dieder-32242a353/)
+<br>
+ 
+### Pra saber mais sobre mim segue a rede abaixo
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/lucas-rossoni-dieder-32242a353/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 

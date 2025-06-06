@@ -1,11 +1,10 @@
 <div>
   <a href="https://github.com/PxS00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PxS00&show_icons=true&title_color=bb6bd9&text_color=cfc7d6&icon_color=c38dff&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxS00&layout=compact&langs_count=10&title_color=bb6bd9&text_color=cfc7d6&icon_color=c38dff&bg_color=0d1117&hide=scss,shell,makefile"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PxS00&show_icons=true&title_color=8b2bfa&text_color=e1d8ff&icon_color=bb6bd9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxS00&layout=compact&langs_count=10&title_color=8b2bfa&text_color=e1d8ff&icon_color=bb6bd9&bg_color=0d1117&hide=scss,shell,makefile"/>
   </a>
 </div>
 
--
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,12 +14,16 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
--
+----
 
-### 📫 Onde me encontrar
-
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/lucas-rossoni-dieder-32242a353/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luc_rossoni/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:lucas.rossonidd@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-8e44ad?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>

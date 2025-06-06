@@ -1,5 +1,4 @@
 ## 👋 Bem-vindo(a) ao perfil do Lucas Rossoni Dieder
-<img src="https://img.shields.io/badge/Estudante-FIAP-red?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  

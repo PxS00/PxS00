@@ -14,29 +14,24 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ---
 
-### 💼 Projetos em destaque
+### 💼 Projeto em destaque
 
-- 🔹 [Limubai](https://github.com/PxS00) — Sistema inteligente para monitoramento de usinas hidrelétricas com IA, gráficos e automação  
-- 🔹 Projetos de front-end e back-end com foco em acessibilidade, usabilidade e impacto social  
-- 🔹 Experimentos com integração de APIs, Electron, automações e visualizações com Python
+- 🛰️ [Sistema Operacional A.R.C.A](https://github.com/PxS00/Sistema-Operacional-A.R.C.A) — Solução para emergências climáticas, com interface intuitiva, tecnologias acessíveis e foco em impacto social.  
+  Projeto acadêmico para a Global Solution 2025 FIAP com funcionalidades de resposta a desastres, prevenção e assistência.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
+
 <div>
   <a href="https://github.com/PxS00">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PxS00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxS00&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxS00&layout=compact&langs_count=10&theme=tokyonight&hide=scss,shell,makefile"/>
   </a>
 </div>
 

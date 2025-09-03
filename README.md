@@ -1,24 +1,13 @@
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxS00&layout=compact&langs_count=10&title_color=8b2bfa&text_color=e1d8ff&icon_color=bb6bd9&bg_color=0d1117&hide=scss,shell,makefile"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prazer,+sou+Lucas+Rossoni!;Back-end+developer.&font=Share%20Tech%20Mono&color=%238B5CF6)](https://git.io/typing-svg)
 
-<br>
+## 📌 Sobre mim
+Hello, World! Sou **Lucas Rossoni Dieder**, 19 anos, estudante de **ADS na FIAP**.  
+**Back-end dev** (Java/Python) com experiência em **front-end** (React/TypeScript), priorizando soluções simples e de alta performance.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 💻 Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,react,vite,tailwind,nodejs,mysql,mongodb,idea)](https://skillicons.dev)
 
-##
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rossoni-dieder/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc_rossoni)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.rossonidd@gmail.com)
-</div>
+## Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc_rossoni)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.rossonidd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rossoni-dieder/)

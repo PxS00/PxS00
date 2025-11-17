@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prazer,+sou+Lucas+Rossoni!;Back-end+developer.&font=Share%20Tech%20Mono&color=%238B5CF6)](https://git.io/typing-svg)
 
 ## 📌 Sobre mim
-Hello, World! Sou **Lucas Rossoni Dieder**, 19 anos, estudante de **ADS na FIAP**.  
-**Back-end dev** (Java/Python) com experiência em **front-end** (React/TS), priorizando soluções simples e de alta performance.
+Hello, World! I'm Lucas Rossoni Dieder, 19 years old, a Systems Analysis and Development student at FIAP.
+Software Engineer & AI Enthusiast, mainly focused on **back-end development** (Java/Python) with experience in **front-end** using React and TypeScript. I value clean, scalable and high-performance solutions.
+Passionate about software engineering, cloud computing, and writing high-quality code — continuously learning and evolving through meaningful technical challenges.
+
+> "Begin with what you know. Grow with what you learn."
 
 ## 💻 Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,react,vite,tailwind,nodejs,mysql,mongodb,idea)](https://skillicons.dev)

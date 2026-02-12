@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Lucas+Rossoni!;Full-Stack+developer.&font=Share%20Tech%20Mono&color=%238B5CF6)](https://git.io/typing-svg)
 
 ## 📌 Sobre mim
-Hello, World! I'm Lucas Rossoni Dieder, 19 years old, a Systems Analysis and Development student at FIAP.
+Hello, World! I'm Lucas Rossoni Dieder, 20 years old, a Systems Analysis and Development student at FIAP.
 Software Engineer & AI Enthusiast, mainly focused on **back-end development** (Java/Python) with experience in **front-end** using React and TypeScript. I value clean, scalable and high-performance solutions.
 Passionate about software engineering, cloud computing, and writing high-quality code — continuously learning and evolving through meaningful technical challenges.
 

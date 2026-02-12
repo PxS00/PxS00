@@ -9,7 +9,8 @@ Interested in software architecture, scalable systems, and writing clean, mainta
 > "Begin with what you know. Grow with what you learn."
 
 ## 💻 Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,cs,react,dotnet,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,docker,git)](https://skillicons.dev)
+
 
 ## 📫 Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc_rossoni)

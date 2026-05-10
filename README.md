@@ -10,12 +10,18 @@ Currently interested in distributed systems, cloud computing, DevOps practices a
 
 ## 💻 Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,docker,kubernetes,aws,git)](https://skillicons.dev)
-<a href="SEU_LINK">
-  <img src="./assets/OCI25FNDCFA.png" width="180" />
-</a>
-
 
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luc_rossoni)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.rossonidd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rossoni-dieder/)
+
+## 🏆 Certifications
+
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E63998027E057F05952B3E9B77916904361B1492B6DAF2EC28A3040227D2891D">
+    <img 
+      src="./assets/OCI25FNDCFA.png" 
+      width="300"
+      alt="OCI Foundations Associate 2025 Badge"
+    />
+  </a>
